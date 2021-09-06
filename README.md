@@ -11,7 +11,7 @@ Loop continues until user inputs 'no' to end his shopping
 The data about all the successful transaction is stored in another dictionary called history which saves this data in sales file whenever any sale is made
 
 The main file is the saud_final_project file where the information is given about which cells are to be run only once and which can be run again and again
-The inventory.json contains the record about the current products in the inventory
+The record.json contains the record about the current products in the inventory
 The sales.json contains the record about the sales made 
 
 
