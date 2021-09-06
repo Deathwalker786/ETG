@@ -1,4 +1,4 @@
-# ETG
+# ELITE TECHNO GROUPS PROJECT_1
 This is an Inventory Management system project that allows users to buy stuff from and keeps the record of both the current inventory and sales done
 
 Features:
